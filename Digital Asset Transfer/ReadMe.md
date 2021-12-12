@@ -7,6 +7,10 @@
 
 Report file contains the Core Idea followed by an Implementation using smart contract.
 
+We implement the digital asset transfer by breaking it into multiple phases where we generate the NFT using Library Implementation for our digital asset. This is followed by hosting an auction where prospective bidders can submit their bids.
+
+After all the bids are submitted and the bidding time is complete, the auction is closed, followed by the transfer of the Ethereum from the Auction winner to the Beneficiary.
+
 Demo file contains a video demonstration of the live project on Remix IDE 
 
 ### http://remix.ethereum.org/ : Sandbox - Javascript (London)
