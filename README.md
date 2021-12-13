@@ -2,7 +2,8 @@
 
 This repository contains multiple smart contracts written in Solidity to implement various functionalities present in Ethereum Blockchain.
 
-It implements a mechanism to **Transfer Digital Assets** by changing the **NFT Ownership** via an **Open Auction** with multiple users bidding with 5 % Royalty transferred to the Artist.
+It implements a mechanism to **Transfer Digital Assets** by changing the **NFT Ownership** via an **Open Auction** with multiple users bidding with 
+**5 % Royalty** transferred to the Artist.
 
 It also implements multiple **Smart Contract Applications**:
 
