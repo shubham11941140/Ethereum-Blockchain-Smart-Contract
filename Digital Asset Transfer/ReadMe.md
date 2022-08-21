@@ -1,6 +1,7 @@
 ## Project Problem Statement Description:
 
 ### How to sell (and resell) a digital asset using smart contracts?
+
 1. Twitter Post
 2. Facebook Post
 3. A Digital Art (which resides on the Internet)
@@ -17,16 +18,18 @@ After all the bids are submitted and the bidding time is complete, the auction i
 
 In simple words, we auction digital assets and transfer them by changing the ownerships of NFTs in the Ethereum Blockchain.
 
-Demo file contains a video demonstration of the live project on Remix IDE 
+Demo file contains a video demonstration of the live project on Remix IDE
 
 This can be extended to deployment on the Ropsten Test Network via Metamask as well.
 
 ## Live Project Deployed at:
 
 ### Remix IDE Deployment:
+
 ### http://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.10+commit.fc410830.js
 
 ### Ropsten Test Network (Etherscan via MetaMask):
+
 ### https://ropsten.etherscan.io/address/0x5374761798a80859dd5351cb75b3e4595acc4680
 
 ## References:
